@@ -1663,7 +1663,6 @@
 [/17caifu.com/]quic:///1.12.12.12
 [/17cct.com/]quic:///1.12.12.12
 [/17ce.com/]quic:///1.12.12.12
-[/17chuang.cc/]quic:///1.12.12.12
 [/17coding.info/]quic:///1.12.12.12
 [/17cx.com/]quic:///1.12.12.12
 [/17d.co/]quic:///1.12.12.12
@@ -2291,6 +2290,7 @@
 [/21our.com/]quic:///1.12.12.12
 [/21qa.net/]quic:///1.12.12.12
 [/21qphr.com/]quic:///1.12.12.12
+[/21qupu.com/]quic:///1.12.12.12
 [/21rv.com/]quic:///1.12.12.12
 [/21shhr.com/]quic:///1.12.12.12
 [/21shipin.com/]quic:///1.12.12.12
@@ -15256,7 +15256,6 @@
 [/carrobot.com/]quic:///1.12.12.12
 [/carrotchou.blog/]quic:///1.12.12.12
 [/carrotchou.com/]quic:///1.12.12.12
-[/carry6.com/]quic:///1.12.12.12
 [/cars001.com/]quic:///1.12.12.12
 [/cartimen.com/]quic:///1.12.12.12
 [/cartoonwin.com/]quic:///1.12.12.12
@@ -17932,7 +17931,6 @@
 [/chuangkit.com/]quic:///1.12.12.12
 [/chuangli.net/]quic:///1.12.12.12
 [/chuanglian.net/]quic:///1.12.12.12
-[/chuanglianhui.com/]quic:///1.12.12.12
 [/chuanglinggame.com/]quic:///1.12.12.12
 [/chuangluo.com/]quic:///1.12.12.12
 [/chuangmei8.com/]quic:///1.12.12.12
@@ -33795,7 +33793,6 @@
 [/gzshujuhui.com/]quic:///1.12.12.12
 [/gzsj.live/]quic:///1.12.12.12
 [/gzsjyzx.com/]quic:///1.12.12.12
-[/gzsmove.com/]quic:///1.12.12.12
 [/gzsrmyy.com/]quic:///1.12.12.12
 [/gzsrunda.com/]quic:///1.12.12.12
 [/gzstarship.com/]quic:///1.12.12.12
@@ -34173,6 +34170,7 @@
 [/haitaozu.org/]quic:///1.12.12.12
 [/haitianhome.com/]quic:///1.12.12.12
 [/haitl.com/]quic:///1.12.12.12
+[/haitong.com/]quic:///1.12.12.12
 [/haitongjiaoyu.com/]quic:///1.12.12.12
 [/haitou.cc/]quic:///1.12.12.12
 [/haitou360.com/]quic:///1.12.12.12
@@ -35857,7 +35855,6 @@
 [/hg3310.com/]quic:///1.12.12.12
 [/hg5177.com/]quic:///1.12.12.12
 [/hg56999.com/]quic:///1.12.12.12
-[/hg6262.biz/]quic:///1.12.12.12
 [/hg707.com/]quic:///1.12.12.12
 [/hg87.com/]quic:///1.12.12.12
 [/hg8880.org/]quic:///1.12.12.12
@@ -37250,7 +37247,6 @@
 [/hr-mp.com/]quic:///1.12.12.12
 [/hr-self.com/]quic:///1.12.12.12
 [/hr002.com/]quic:///1.12.12.12
-[/hr029edu.com/]quic:///1.12.12.12
 [/hr0571.com/]quic:///1.12.12.12
 [/hr0715.com/]quic:///1.12.12.12
 [/hr0915.com/]quic:///1.12.12.12
@@ -42015,6 +42011,7 @@
 [/jh3737.com/]quic:///1.12.12.12
 [/jh3j.com/]quic:///1.12.12.12
 [/jh8k.com/]quic:///1.12.12.12
+[/jhaoyou.com/]quic:///1.12.12.12
 [/jhcb.net/]quic:///1.12.12.12
 [/jhcfz.com/]quic:///1.12.12.12
 [/jhcheku.com/]quic:///1.12.12.12
@@ -43619,7 +43616,6 @@
 [/job592.com/]quic:///1.12.12.12
 [/job910.com/]quic:///1.12.12.12
 [/job9151.com/]quic:///1.12.12.12
-[/job98.com/]quic:///1.12.12.12
 [/job9981.com/]quic:///1.12.12.12
 [/jobbole.com/]quic:///1.12.12.12
 [/jobcdp.com/]quic:///1.12.12.12
@@ -46428,7 +46424,6 @@
 [/kuaizhe.com/]quic:///1.12.12.12
 [/kuaizhihui.com/]quic:///1.12.12.12
 [/kuaizhou123.com/]quic:///1.12.12.12
-[/kuaizi.cc/]quic:///1.12.12.12
 [/kuaizi.co/]quic:///1.12.12.12
 [/kuaizip.com/]quic:///1.12.12.12
 [/kuaizitech.com/]quic:///1.12.12.12
@@ -47568,7 +47563,6 @@
 [/lecloudapis.com/]quic:///1.12.12.12
 [/lecoinfrancais.org/]quic:///1.12.12.12
 [/lecomposites.com/]quic:///1.12.12.12
-[/leconginfo.com/]quic:///1.12.12.12
 [/leconiot.com/]quic:///1.12.12.12
 [/lecoo.com/]quic:///1.12.12.12
 [/lecuntao.com/]quic:///1.12.12.12
@@ -47650,7 +47644,6 @@
 [/leigod.com/]quic:///1.12.12.12
 [/leihetg.com/]quic:///1.12.12.12
 [/leihuo.net/]quic:///1.12.12.12
-[/leikeda.com/]quic:///1.12.12.12
 [/leikeji.com/]quic:///1.12.12.12
 [/leilei3dprinter.com/]quic:///1.12.12.12
 [/leileiluoluo.com/]quic:///1.12.12.12
@@ -53935,6 +53928,7 @@
 [/nameidi.com/]quic:///1.12.12.12
 [/namejin.com/]quic:///1.12.12.12
 [/namepre.com/]quic:///1.12.12.12
+[/nameserver.fit/]quic:///1.12.12.12
 [/namesilodns.com/]quic:///1.12.12.12
 [/namesilopro.com/]quic:///1.12.12.12
 [/namibox.com/]quic:///1.12.12.12
@@ -54779,7 +54773,6 @@
 [/nizi88.com/]quic:///1.12.12.12
 [/nizkeyboard.com/]quic:///1.12.12.12
 [/nj-bl.com/]quic:///1.12.12.12
-[/nj-cs.com/]quic:///1.12.12.12
 [/nj-hust.com/]quic:///1.12.12.12
 [/nj-qiyiguo.net/]quic:///1.12.12.12
 [/nj-ss.com/]quic:///1.12.12.12
@@ -54878,7 +54871,6 @@
 [/njzy99.com/]quic:///1.12.12.12
 [/njzztyl.com/]quic:///1.12.12.12
 [/nkasr.com/]quic:///1.12.12.12
-[/nkf09.com/]quic:///1.12.12.12
 [/nks1688.com/]quic:///1.12.12.12
 [/nkscdn.com/]quic:///1.12.12.12
 [/nkygty.com/]quic:///1.12.12.12
@@ -54966,7 +54958,6 @@
 [/nn6zx.com/]quic:///1.12.12.12
 [/nn7yy.com/]quic:///1.12.12.12
 [/nn8yy.com/]quic:///1.12.12.12
-[/nn9.net/]quic:///1.12.12.12
 [/nn9yy.com/]quic:///1.12.12.12
 [/nnairport.com/]quic:///1.12.12.12
 [/nnanyang.com/]quic:///1.12.12.12
@@ -55279,7 +55270,6 @@
 [/nnwtl.com/]quic:///1.12.12.12
 [/nnwxtzgs.com/]quic:///1.12.12.12
 [/nnwysc.com/]quic:///1.12.12.12
-[/nnwysp.com/]quic:///1.12.12.12
 [/nnwytl.com/]quic:///1.12.12.12
 [/nnxchda.com/]quic:///1.12.12.12
 [/nnxcx.com/]quic:///1.12.12.12
@@ -57945,7 +57935,6 @@
 [/plfrog.com/]quic:///1.12.12.12
 [/plll-fluid.com/]quic:///1.12.12.12
 [/plob.org/]quic:///1.12.12.12
-[/plotsuz.com/]quic:///1.12.12.12
 [/plottinglogistics.com/]quic:///1.12.12.12
 [/plqdf.com/]quic:///1.12.12.12
 [/plrsw.com/]quic:///1.12.12.12
@@ -61822,7 +61811,6 @@
 [/rongzi.com/]quic:///1.12.12.12
 [/rontgens.com/]quic:///1.12.12.12
 [/roobo.com/]quic:///1.12.12.12
-[/roodoo.net/]quic:///1.12.12.12
 [/rooee.com/]quic:///1.12.12.12
 [/roof325.com/]quic:///1.12.12.12
 [/roogames.com/]quic:///1.12.12.12
@@ -61836,7 +61824,6 @@
 [/rootopen.com/]quic:///1.12.12.12
 [/rootzhushou.com/]quic:///1.12.12.12
 [/roouoo.com/]quic:///1.12.12.12
-[/roov.org/]quic:///1.12.12.12
 [/ropefitting.com/]quic:///1.12.12.12
 [/ropif.sbs/]quic:///1.12.12.12
 [/ror-game.com/]quic:///1.12.12.12
@@ -64190,6 +64177,7 @@
 [/shenma4480.cc/]quic:///1.12.12.12
 [/shenmabaike.com/]quic:///1.12.12.12
 [/shenmadsp.com/]quic:///1.12.12.12
+[/shenmapay.com/]quic:///1.12.12.12
 [/shenmayouxi.com/]quic:///1.12.12.12
 [/shenmezhidexia.com/]quic:///1.12.12.12
 [/shenmikj.com/]quic:///1.12.12.12
@@ -65191,6 +65179,7 @@
 [/shyz07.com/]quic:///1.12.12.12
 [/shyzjsxh.com/]quic:///1.12.12.12
 [/shyzsd.com/]quic:///1.12.12.12
+[/shzaiguan.com/]quic:///1.12.12.12
 [/shzbc.com/]quic:///1.12.12.12
 [/shzbh.com/]quic:///1.12.12.12
 [/shzbkj.com/]quic:///1.12.12.12
@@ -65346,7 +65335,6 @@
 [/simplecreator.net/]quic:///1.12.12.12
 [/simpledatas.com/]quic:///1.12.12.12
 [/simplexue.com/]quic:///1.12.12.12
-[/simpo-data.com/]quic:///1.12.12.12
 [/simpread.pro/]quic:///1.12.12.12
 [/simsci.net/]quic:///1.12.12.12
 [/simu800.com/]quic:///1.12.12.12
@@ -66975,7 +66963,6 @@
 [/steamrepcn.com/]quic:///1.12.12.12
 [/steamxdf.com/]quic:///1.12.12.12
 [/stec.net/]quic:///1.12.12.12
-[/stedu.net/]quic:///1.12.12.12
 [/steelphone.com/]quic:///1.12.12.12
 [/steelsearcher.com/]quic:///1.12.12.12
 [/stefg.org/]quic:///1.12.12.12
@@ -70546,6 +70533,7 @@
 [/tougub.com/]quic:///1.12.12.12
 [/touhou.casa/]quic:///1.12.12.12
 [/touhou.cd/]quic:///1.12.12.12
+[/touhou.market/]quic:///1.12.12.12
 [/toujidao.com/]quic:///1.12.12.12
 [/touker.com/]quic:///1.12.12.12
 [/toumiao.com/]quic:///1.12.12.12
@@ -74800,7 +74788,6 @@
 [/wetv.vip/]quic:///1.12.12.12
 [/wetvinfo.com/]quic:///1.12.12.12
 [/wevul.com/]quic:///1.12.12.12
-[/wewean.com/]quic:///1.12.12.12
 [/wewinpe.com/]quic:///1.12.12.12
 [/weworkcloudesk.com/]quic:///1.12.12.12
 [/wewuhu.com/]quic:///1.12.12.12
@@ -76643,6 +76630,7 @@
 [/wxsgf.com/]quic:///1.12.12.12
 [/wxshake.com/]quic:///1.12.12.12
 [/wxshiteng.com/]quic:///1.12.12.12
+[/wxshuku.la/]quic:///1.12.12.12
 [/wxslzf.com/]quic:///1.12.12.12
 [/wxsteed.com/]quic:///1.12.12.12
 [/wxstztg.com/]quic:///1.12.12.12
@@ -76869,7 +76857,6 @@
 [/x64pro.com/]quic:///1.12.12.12
 [/x66597.com/]quic:///1.12.12.12
 [/x6d.com/]quic:///1.12.12.12
-[/x6kj.com/]quic:///1.12.12.12
 [/x6x8.com/]quic:///1.12.12.12
 [/x72y.com/]quic:///1.12.12.12
 [/x78j7hk.com/]quic:///1.12.12.12
@@ -80305,7 +80292,6 @@
 [/xyyzi.com/]quic:///1.12.12.12
 [/xyz-jm.com/]quic:///1.12.12.12
 [/xyz1412.net/]quic:///1.12.12.12
-[/xyz83.com/]quic:///1.12.12.12
 [/xyzcdn.net/]quic:///1.12.12.12
 [/xyzcn.com/]quic:///1.12.12.12
 [/xyzdict.com/]quic:///1.12.12.12
@@ -84485,6 +84471,7 @@
 [/zaiyulin.com/]quic:///1.12.12.12
 [/zaiyunli.com/]quic:///1.12.12.12
 [/zaizai8.com/]quic:///1.12.12.12
+[/zajiebao.com/]quic:///1.12.12.12
 [/zajilu.com/]quic:///1.12.12.12
 [/zajourney.com/]quic:///1.12.12.12
 [/zakdy.com/]quic:///1.12.12.12
@@ -84749,7 +84736,6 @@
 [/zdnscloud.info/]quic:///1.12.12.12
 [/zdnscloud.net/]quic:///1.12.12.12
 [/zdomo.com/]quic:///1.12.12.12
-[/zdoz.net/]quic:///1.12.12.12
 [/zdrcrx.com/]quic:///1.12.12.12
 [/zdrcw.com/]quic:///1.12.12.12
 [/zdsee.com/]quic:///1.12.12.12
