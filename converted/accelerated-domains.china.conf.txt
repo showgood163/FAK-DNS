@@ -5418,6 +5418,7 @@
 [/5a8.org/]quic:///1.12.12.12
 [/5aaa.com/]quic:///1.12.12.12
 [/5acbd.com/]quic:///1.12.12.12
+[/5adanci.com/]quic:///1.12.12.12
 [/5adanhao.com/]quic:///1.12.12.12
 [/5ag.net/]quic:///1.12.12.12
 [/5ailiwu.com/]quic:///1.12.12.12
@@ -10124,6 +10125,7 @@
 [/aohuatextiles.com/]quic:///1.12.12.12
 [/aojauto.com/]quic:///1.12.12.12
 [/aojia-oil.com/]quic:///1.12.12.12
+[/aojiahuashare.com/]quic:///1.12.12.12
 [/aojian.net/]quic:///1.12.12.12
 [/aojian2.net/]quic:///1.12.12.12
 [/aojiaostudio.com/]quic:///1.12.12.12
@@ -34448,7 +34450,6 @@
 [/handyfriendship.com/]quic:///1.12.12.12
 [/hanergy.com/]quic:///1.12.12.12
 [/hanergymobileenergy.com/]quic:///1.12.12.12
-[/hanfang8.com/]quic:///1.12.12.12
 [/hanfei.net/]quic:///1.12.12.12
 [/hanfeiyl.com/]quic:///1.12.12.12
 [/hanfengcars.com/]quic:///1.12.12.12
@@ -43069,7 +43070,6 @@
 [/jiningjj.com/]quic:///1.12.12.12
 [/jiniu.work/]quic:///1.12.12.12
 [/jiniutech.com/]quic:///1.12.12.12
-[/jinjianbio.com/]quic:///1.12.12.12
 [/jinjiang-group.com/]quic:///1.12.12.12
 [/jinjiang.com/]quic:///1.12.12.12
 [/jinjianginns.com/]quic:///1.12.12.12
@@ -44246,7 +44246,6 @@
 [/jskjcms.com/]quic:///1.12.12.12
 [/jsklcy.com/]quic:///1.12.12.12
 [/jskpcg.org/]quic:///1.12.12.12
-[/jsks-ya.com/]quic:///1.12.12.12
 [/jskuajing.com/]quic:///1.12.12.12
 [/jskwt.com/]quic:///1.12.12.12
 [/jslcjt.com/]quic:///1.12.12.12
@@ -64641,7 +64640,6 @@
 [/shfq.com/]quic:///1.12.12.12
 [/shfrp.com/]quic:///1.12.12.12
 [/shftth.com/]quic:///1.12.12.12
-[/shfuju.com/]quic:///1.12.12.12
 [/shfxrc.com/]quic:///1.12.12.12
 [/shgao.com/]quic:///1.12.12.12
 [/shgaoxin.net/]quic:///1.12.12.12
@@ -69997,7 +69995,6 @@
 [/tianjin-patek.com/]quic:///1.12.12.12
 [/tianjingames.com/]quic:///1.12.12.12
 [/tianjingrong.com/]quic:///1.12.12.12
-[/tianjinshunma.com/]quic:///1.12.12.12
 [/tianjinwe.com/]quic:///1.12.12.12
 [/tianjinyijiahua.com/]quic:///1.12.12.12
 [/tianjiyy.com/]quic:///1.12.12.12
@@ -80297,6 +80294,7 @@
 [/xueyuhuangjinyan.com/]quic:///1.12.12.12
 [/xuezhangbb.com/]quic:///1.12.12.12
 [/xuezhangya.com/]quic:///1.12.12.12
+[/xuezhao.space/]quic:///1.12.12.12
 [/xuezhishi88.com/]quic:///1.12.12.12
 [/xuezhiyou.com/]quic:///1.12.12.12
 [/xuezhouyi.com/]quic:///1.12.12.12
@@ -85565,6 +85563,7 @@
 [/zgps168.com/]quic:///1.12.12.12
 [/zgpts.com/]quic:///1.12.12.12
 [/zgpy168.com/]quic:///1.12.12.12
+[/zgq.ink/]quic:///1.12.12.12
 [/zgqcdt.com/]quic:///1.12.12.12
 [/zgqczj.com/]quic:///1.12.12.12
 [/zgqkk.com/]quic:///1.12.12.12
