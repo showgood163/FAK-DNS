@@ -2,7 +2,6 @@
 [/0.zone/]quic:///1.12.12.12
 [/00.net/]quic:///1.12.12.12
 [/000.link/]quic:///1.12.12.12
-[/0000g.com/]quic:///1.12.12.12
 [/00042.com/]quic:///1.12.12.12
 [/00058.com/]quic:///1.12.12.12
 [/0006266.com/]quic:///1.12.12.12
@@ -2101,6 +2100,7 @@
 [/1aq.com/]quic:///1.12.12.12
 [/1auto.net/]quic:///1.12.12.12
 [/1b17.com/]quic:///1.12.12.12
+[/1b1tech.com/]quic:///1.12.12.12
 [/1b23.com/]quic:///1.12.12.12
 [/1biaozhun.com/]quic:///1.12.12.12
 [/1bus.net/]quic:///1.12.12.12
@@ -4058,7 +4058,6 @@
 [/4484.win/]quic:///1.12.12.12
 [/44971.com/]quic:///1.12.12.12
 [/44983.com/]quic:///1.12.12.12
-[/44dt.com/]quic:///1.12.12.12
 [/44h.co/]quic:///1.12.12.12
 [/44jj.com/]quic:///1.12.12.12
 [/44vs.com/]quic:///1.12.12.12
@@ -7251,7 +7250,6 @@
 [/8721.com/]quic:///1.12.12.12
 [/872872.com/]quic:///1.12.12.12
 [/8767.com/]quic:///1.12.12.12
-[/876u.com/]quic:///1.12.12.12
 [/876web.com/]quic:///1.12.12.12
 [/8770000.com/]quic:///1.12.12.12
 [/877311.com/]quic:///1.12.12.12
@@ -8240,7 +8238,6 @@
 [/998jk.com/]quic:///1.12.12.12
 [/998jx.com/]quic:///1.12.12.12
 [/998law.com/]quic:///1.12.12.12
-[/998movie.com/]quic:///1.12.12.12
 [/9991.com/]quic:///1.12.12.12
 [/999120.net/]quic:///1.12.12.12
 [/999136.xyz/]quic:///1.12.12.12
@@ -12227,6 +12224,7 @@
 [/bamatea.com/]quic:///1.12.12.12
 [/bamaying.com/]quic:///1.12.12.12
 [/bamboo18.com/]quic:///1.12.12.12
+[/bambooolab.com/]quic:///1.12.12.12
 [/bamengame.com/]quic:///1.12.12.12
 [/bamensq.com/]quic:///1.12.12.12
 [/bamuwu.com/]quic:///1.12.12.12
@@ -14902,7 +14900,6 @@
 [/boyikang.com/]quic:///1.12.12.12
 [/boyingsj.com/]quic:///1.12.12.12
 [/boyishu.me/]quic:///1.12.12.12
-[/boyoline.com/]quic:///1.12.12.12
 [/boyoucy.com/]quic:///1.12.12.12
 [/boyouquan.com/]quic:///1.12.12.12
 [/boyuan.com/]quic:///1.12.12.12
@@ -15641,7 +15638,6 @@
 [/c1s.com/]quic:///1.12.12.12
 [/c2h4.org/]quic:///1.12.12.12
 [/c2wtvr0jq.sbs/]quic:///1.12.12.12
-[/c31.fun/]quic:///1.12.12.12
 [/c355595c3.buzz/]quic:///1.12.12.12
 [/c360dn.com/]quic:///1.12.12.12
 [/c3acg.com/]quic:///1.12.12.12
@@ -23518,7 +23514,6 @@
 [/dfzmzyc.com/]quic:///1.12.12.12
 [/dfzxvip.com/]quic:///1.12.12.12
 [/dg-360lhx.com/]quic:///1.12.12.12
-[/dg-cbd.com/]quic:///1.12.12.12
 [/dg-hanxin.com/]quic:///1.12.12.12
 [/dg-mall.com/]quic:///1.12.12.12
 [/dg-niuniu.com/]quic:///1.12.12.12
@@ -27766,6 +27761,7 @@
 [/fadior.cc/]quic:///1.12.12.12
 [/fadoudou.com/]quic:///1.12.12.12
 [/fadsc.com/]quic:///1.12.12.12
+[/fadsfasd.asia/]quic:///1.12.12.12
 [/fadui.com/]quic:///1.12.12.12
 [/fafa9.com/]quic:///1.12.12.12
 [/fafachen.com/]quic:///1.12.12.12
@@ -36426,6 +36422,7 @@
 [/haolidayiliao.com/]quic:///1.12.12.12
 [/haolietou.com/]quic:///1.12.12.12
 [/haoliners.net/]quic:///1.12.12.12
+[/haoling.cc/]quic:///1.12.12.12
 [/haolints.com/]quic:///1.12.12.12
 [/haoliv.com/]quic:///1.12.12.12
 [/haolizi.net/]quic:///1.12.12.12
@@ -36996,7 +36993,6 @@
 [/hbzuojia.com/]quic:///1.12.12.12
 [/hbzw56.com/]quic:///1.12.12.12
 [/hbzywh.com/]quic:///1.12.12.12
-[/hbzzedu.com/]quic:///1.12.12.12
 [/hc-byq.com/]quic:///1.12.12.12
 [/hc-cdn.com/]quic:///1.12.12.12
 [/hc-ph.com/]quic:///1.12.12.12
@@ -37038,7 +37034,6 @@
 [/hch518.com/]quic:///1.12.12.12
 [/hchbblg.com/]quic:///1.12.12.12
 [/hchbsb.com/]quic:///1.12.12.12
-[/hchetao.com/]quic:///1.12.12.12
 [/hchezhu.com/]quic:///1.12.12.12
 [/hchlidc.com/]quic:///1.12.12.12
 [/hchliot.com/]quic:///1.12.12.12
@@ -41819,7 +41814,6 @@
 [/iduodou.com/]quic:///1.12.12.12
 [/iduokan.net/]quic:///1.12.12.12
 [/idwzx.com/]quic:///1.12.12.12
-[/idy360.com/]quic:///1.12.12.12
 [/idzmb.com/]quic:///1.12.12.12
 [/ie515.com/]quic:///1.12.12.12
 [/ie525.com/]quic:///1.12.12.12
@@ -44618,7 +44612,6 @@
 [/jianli-sky.com/]quic:///1.12.12.12
 [/jianli.com/]quic:///1.12.12.12
 [/jianli88.com/]quic:///1.12.12.12
-[/jianli9.com/]quic:///1.12.12.12
 [/jianliao.com/]quic:///1.12.12.12
 [/jianliben.com/]quic:///1.12.12.12
 [/jianliduo.com/]quic:///1.12.12.12
@@ -45228,6 +45221,7 @@
 [/jingyu.com/]quic:///1.12.12.12
 [/jingyuan.com/]quic:///1.12.12.12
 [/jingyuelaw.com/]quic:///1.12.12.12
+[/jingyuweike.com/]quic:///1.12.12.12
 [/jingyuxiaoban.com/]quic:///1.12.12.12
 [/jingyuyun.com/]quic:///1.12.12.12
 [/jingzhengu.com/]quic:///1.12.12.12
@@ -49223,7 +49217,6 @@
 [/kunkundev.com/]quic:///1.12.12.12
 [/kunkunyu.com/]quic:///1.12.12.12
 [/kunlexf.com/]quic:///1.12.12.12
-[/kunlun-cdn.com/]quic:///1.12.12.12
 [/kunlunaq.com/]quic:///1.12.12.12
 [/kunlunar.com/]quic:///1.12.12.12
 [/kunlunca.com/]quic:///1.12.12.12
@@ -49569,7 +49562,6 @@
 [/lailinzhihui.com/]quic:///1.12.12.12
 [/lailook.net/]quic:///1.12.12.12
 [/laima-tech.com/]quic:///1.12.12.12
-[/laimaidi.com/]quic:///1.12.12.12
 [/lainzy.net/]quic:///1.12.12.12
 [/laipei.net/]quic:///1.12.12.12
 [/laiqi.net/]quic:///1.12.12.12
@@ -54744,6 +54736,7 @@
 [/metalyoung.com/]quic:///1.12.12.12
 [/metaplanet3023.com/]quic:///1.12.12.12
 [/metasecurities.com/]quic:///1.12.12.12
+[/metastonecorp.com/]quic:///1.12.12.12
 [/metastudioxr.com/]quic:///1.12.12.12
 [/metastudy.vip/]quic:///1.12.12.12
 [/metasyun.com/]quic:///1.12.12.12
@@ -59617,6 +59610,7 @@
 [/ontheroadstore.com/]quic:///1.12.12.12
 [/onthink.com/]quic:///1.12.12.12
 [/ontvb.com/]quic:///1.12.12.12
+[/onwear.net/]quic:///1.12.12.12
 [/onwsw.com/]quic:///1.12.12.12
 [/onyealink.com/]quic:///1.12.12.12
 [/onyi.net/]quic:///1.12.12.12
@@ -62835,7 +62829,6 @@
 [/qifuip.com/]quic:///1.12.12.12
 [/qifun.com/]quic:///1.12.12.12
 [/qifuyuan.com/]quic:///1.12.12.12
-[/qiggg1101.com/]quic:///1.12.12.12
 [/qigongworld.net/]quic:///1.12.12.12
 [/qigousoft.com/]quic:///1.12.12.12
 [/qiguagua.com/]quic:///1.12.12.12
@@ -65419,7 +65412,6 @@
 [/rongji.com/]quic:///1.12.12.12
 [/rongkao.com/]quic:///1.12.12.12
 [/rongledz.com/]quic:///1.12.12.12
-[/ronglianmeng.net/]quic:///1.12.12.12
 [/rongmei.net/]quic:///1.12.12.12
 [/rongnav.com/]quic:///1.12.12.12
 [/rongroad.com/]quic:///1.12.12.12
@@ -66768,7 +66760,6 @@
 [/sdguguo.com/]quic:///1.12.12.12
 [/sdgw.com/]quic:///1.12.12.12
 [/sdgwy.org/]quic:///1.12.12.12
-[/sdhangfengji.com/]quic:///1.12.12.12
 [/sdhbcl.com/]quic:///1.12.12.12
 [/sdhdssd.com/]quic:///1.12.12.12
 [/sdhfsh.com/]quic:///1.12.12.12
@@ -66902,7 +66893,6 @@
 [/sdteleiptv.com/]quic:///1.12.12.12
 [/sdtlly.com/]quic:///1.12.12.12
 [/sdtrxx.com/]quic:///1.12.12.12
-[/sdtsmm.com/]quic:///1.12.12.12
 [/sdtsrf.com/]quic:///1.12.12.12
 [/sdtugongbucj.com/]quic:///1.12.12.12
 [/sdtvjiankang.com/]quic:///1.12.12.12
@@ -68081,7 +68071,6 @@
 [/shenyecg.com/]quic:///1.12.12.12
 [/shenyehd.com/]quic:///1.12.12.12
 [/shenyeyunying.com/]quic:///1.12.12.12
-[/shenyj.com/]quic:///1.12.12.12
 [/shenyou.tv/]quic:///1.12.12.12
 [/shenyu.me/]quic:///1.12.12.12
 [/shenyuanquan.com/]quic:///1.12.12.12
@@ -68888,6 +68877,7 @@
 [/shuizhifenxi.com/]quic:///1.12.12.12
 [/shuizhiyuncaishui.com/]quic:///1.12.12.12
 [/shuizilong.com/]quic:///1.12.12.12
+[/shujiangweike.com/]quic:///1.12.12.12
 [/shujike.com/]quic:///1.12.12.12
 [/shuju.net/]quic:///1.12.12.12
 [/shujuba.net/]quic:///1.12.12.12
@@ -69150,6 +69140,7 @@
 [/sibfi.com/]quic:///1.12.12.12
 [/sibida.net/]quic:///1.12.12.12
 [/siboda-nb.com/]quic:///1.12.12.12
+[/sibsiu.com/]quic:///1.12.12.12
 [/sibuzyn.com/]quic:///1.12.12.12
 [/sicarrier.com/]quic:///1.12.12.12
 [/sicent.com/]quic:///1.12.12.12
@@ -75451,7 +75442,6 @@
 [/tuhu.org/]quic:///1.12.12.12
 [/tuhu.work/]quic:///1.12.12.12
 [/tui18.com/]quic:///1.12.12.12
-[/tui56.com/]quic:///1.12.12.12
 [/tuiaaaa.com/]quic:///1.12.12.12
 [/tuiaaae.com/]quic:///1.12.12.12
 [/tuiaaaf.com/]quic:///1.12.12.12
@@ -75944,7 +75934,6 @@
 [/tzjufeng.com/]quic:///1.12.12.12
 [/tzjwrml.com/]quic:///1.12.12.12
 [/tzjxl.com/]quic:///1.12.12.12
-[/tzkameng.com/]quic:///1.12.12.12
 [/tzkciz.com/]quic:///1.12.12.12
 [/tzlib.net/]quic:///1.12.12.12
 [/tzlmt.com/]quic:///1.12.12.12
@@ -77133,7 +77122,6 @@
 [/verify5.com/]quic:///1.12.12.12
 [/verisilicon.com/]quic:///1.12.12.12
 [/verisyno.com/]quic:///1.12.12.12
-[/vernonpratt.com/]quic:///1.12.12.12
 [/verodillan.com/]quic:///1.12.12.12
 [/versoventure.com/]quic:///1.12.12.12
 [/vertex.team/]quic:///1.12.12.12
@@ -77233,6 +77221,7 @@
 [/vicpalm.com/]quic:///1.12.12.12
 [/vicrab.com/]quic:///1.12.12.12
 [/vicsdf.com/]quic:///1.12.12.12
+[/victim.xn--vuq861b/]quic:///1.12.12.12
 [/victory-inflight.com/]quic:///1.12.12.12
 [/viczz.com/]quic:///1.12.12.12
 [/vida-bio.com/]quic:///1.12.12.12
@@ -81145,7 +81134,6 @@
 [/www53119cc.com/]quic:///1.12.12.12
 [/www5929.com/]quic:///1.12.12.12
 [/www662555.com/]quic:///1.12.12.12
-[/www7546.com/]quic:///1.12.12.12
 [/www8huoks.com/]quic:///1.12.12.12
 [/www939666.com/]quic:///1.12.12.12
 [/www985555.com/]quic:///1.12.12.12
@@ -82968,7 +82956,6 @@
 [/xinchaoss.com/]quic:///1.12.12.12
 [/xinchego.com/]quic:///1.12.12.12
 [/xincheng.com/]quic:///1.12.12.12
-[/xinchengcm.com/]quic:///1.12.12.12
 [/xinchengyue.com/]quic:///1.12.12.12
 [/xincheping.com/]quic:///1.12.12.12
 [/xinchess.com/]quic:///1.12.12.12
@@ -85140,7 +85127,6 @@
 [/xyhjd168.com/]quic:///1.12.12.12
 [/xyhlcd.com/]quic:///1.12.12.12
 [/xyhospital.com/]quic:///1.12.12.12
-[/xyhpjy.com/]quic:///1.12.12.12
 [/xyhqsh.com/]quic:///1.12.12.12
 [/xyhtml5.com/]quic:///1.12.12.12
 [/xyict.com/]quic:///1.12.12.12
@@ -89210,7 +89196,6 @@
 [/yuzhuan.com/]quic:///1.12.12.12
 [/yuzhulin.com/]quic:///1.12.12.12
 [/yuzhuw.com/]quic:///1.12.12.12
-[/yuzi.net/]quic:///1.12.12.12
 [/yuzijiaoyu.com/]quic:///1.12.12.12
 [/yuzmshanghai.org/]quic:///1.12.12.12
 [/yuzone.net/]quic:///1.12.12.12
@@ -89479,7 +89464,6 @@
 [/yymoban.com/]quic:///1.12.12.12
 [/yynetwk.com/]quic:///1.12.12.12
 [/yyouren.com/]quic:///1.12.12.12
-[/yypm.com/]quic:///1.12.12.12
 [/yypt.com/]quic:///1.12.12.12
 [/yyq.com/]quic:///1.12.12.12
 [/yyquan.vip/]quic:///1.12.12.12
@@ -92672,7 +92656,6 @@
 [/zpenr.com/]quic:///1.12.12.12
 [/zpfdc.com/]quic:///1.12.12.12
 [/zpgd.net/]quic:///1.12.12.12
-[/zpgpt.com/]quic:///1.12.12.12
 [/zphlkj.com/]quic:///1.12.12.12
 [/zphuagong.com/]quic:///1.12.12.12
 [/zpidc.com/]quic:///1.12.12.12
